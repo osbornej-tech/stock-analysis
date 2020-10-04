@@ -14,7 +14,7 @@ The image below shows how faster refactoring the code produced the above results
 </p>
 
 
-In 2018, there were two companies that experiencd a increase in return. There ticker IDs were ENPH and RUN as illustrated in green.
+In 2018, there were two companies that experiencd a increase in return. Their ticker IDs were ENPH and RUN as illustrated in green.
 <p align="center">
   <img src = 'https://github.com/osbornej-tech/stock-analysis/blob/master/2017.png'>
 </p>
