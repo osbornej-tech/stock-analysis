@@ -7,16 +7,18 @@ In 2017, Ticker TERP experienced a 7.2% decrease in closing price which is highl
 <p align="center">
   <img src = 'https://github.com/osbornej-tech/stock-analysis/blob/master/2017.png'>
 </p>
+
 The image below shows how faster refactoring the code produced the above results. 
 <p align="center">
-  <img src = 'https://github.com/osbornej-tech/stock-analysis/blob/master/VBA_Challenge_2017.png'>
+  <img src = 'https://github.com/osbornej-tech/stock-analysis/blob/master/2017.png'>
 </p>
 
 In 2018, there were two companies that experiencd a increase in return. There ticker IDs were ENPH and RUN as illustrated in green.
 
 <p align="center">
-  <img src = 'https://github.com/osbornej-tech/stock-analysis/blob/master/2018.png'>
+  <img src = 'https://github.com/osbornej-tech/stock-analysis/blob/master/2017.png'>
 </p>
+
 The image below shows how faster refactoring the code produced the above results.
 <p align="center">
   <img src ='https://github.com/osbornej-tech/stock-analysis/blob/master/VBA_Challenge_2018.png'>
